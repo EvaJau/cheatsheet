@@ -1,4 +1,4 @@
-![Numpy Logo](./numpy_logo.png)
+![Numpy Logo](numpy_logo.png)
 # Numpy
 ## A Python library for Mathematical operations.
 
